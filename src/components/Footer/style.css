@@ -1,0 +1,11 @@
+.footer {
+  width: 40rem;
+  margin: 0 auto;
+  padding: 2rem;
+  margin-bottom: 3rem;
+}
+.footer span {
+  font-size: 0.85rem;
+  line-height: 1.3rem;
+  letter-spacing: 1px;
+}

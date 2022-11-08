@@ -1,0 +1,44 @@
+.contact {
+  width: 40rem;
+  margin: 0 auto;
+  padding: 2rem;
+}
+.contact-farewell {
+  margin-bottom: 1.5rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  line-height: 2.2rem;
+}
+.contact-text {
+  color: var(--color--text);
+  letter-spacing: 2px;
+  margin-bottom: 5rem;
+  line-height: 1.5rem;
+}
+.contact-text-return {
+  color: var(--color--text);
+  letter-spacing: 2px;
+  margin-bottom: 2rem;
+  line-height: 1.5rem;
+}
+.text-help {
+  font-weight: bold;
+  color: var(--color--black);
+}
+.text-cancel {
+  font-size: 0.85rem;
+}
+.cancel {
+  text-decoration: none;
+  color: var(--color--default);
+}
+.box-imgs {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 4rem;
+  padding: 1rem;
+  flex-wrap: wrap;
+}
+.box-imgs img {
+  width: 2rem;
+}

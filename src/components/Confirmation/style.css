@@ -1,0 +1,20 @@
+.confirmation {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 40rem;
+  height: 13rem;
+  margin: 0 auto;
+  border-radius: 2px;
+  background-color: var(--color--bg-confirmation);
+  padding: 2rem;
+  flex-wrap: wrap;
+}
+.confirmation h2 {
+  color: var(--color--default);
+  margin-bottom: 2rem;
+}
+.confirmation p {
+  color: var(--color-text-confirmation);
+  font-size: 1.225rem;
+}
